@@ -1,111 +1,89 @@
 # Privacy Policy for Quran Telugu
-**Effective Date:** 26 September 2025  
-**Contact Email:** bioinformatics.bb@gmail.com
 
-This Privacy Policy explains how **Quran Telugu** (“app”, “we”, “our”, “us”) handles information when you use the Android application available on Google Play (package: `com.QuranTelugu.quran_telugu`).
+**Last Updated:** [26-09-2025]
 
----
+## Introduction
 
-## 1. Summary (What you should know)
-- We **do not require accounts** and **do not sell** personal data.
-- Core features run **on-device**; your **bookmarks, highlights, notes, tasbeeh counts, and preferences** are stored **locally** on your phone.
-- **Location** is **optional** and used **only** for Prayer Times and Qibla Finder (if you enable it).
-- Network calls use **HTTPS**. We share **no personal identifiers** with third parties.
+Quran Telugu ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you use our mobile application ("the App").
 
----
+## Information We Collect
 
-## 2. What data we collect or process
+### Information We Do NOT Collect
+- **Personal Information**: We do not collect names, email addresses, phone numbers, or any personally identifiable information
+- **Location Data**: We do not access or store your device's location
+- **Contact Information**: We do not access your contacts or address book
+- **Device Identifiers**: We do not collect device IDs, advertising IDs, or similar identifiers
 
-### A) Data you store on your device (On-device only)
-- **Bookmarks, highlights, notes, tasbeeh counts, reading preferences (font, theme), last-read position.**  
-**Purpose:** Provide reading, personalization, and resume features.  
-**Storage/Retention:** On your device only, until you delete app data or uninstall.  
-**Sharing:** Not shared.
+### Information We May Collect
+- **App Usage Statistics**: Anonymous usage data such as which chapters are accessed most frequently
+- **Technical Information**: Basic device information (Android version, app version) for compatibility purposes
+- **Crash Reports**: Anonymous crash logs to improve app stability
 
-### B) Approximate/Precise Location (Optional)
-- Collected **only if you grant permission** to use **Prayer Times** and/or **Qibla Finder**.  
-**Purpose:** Compute local prayer times and Qibla bearing.  
-**Storage/Retention:** Not stored on our servers. Coordinates are used in-app and may be sent to a prayer-time/Qibla API to compute results in real time.  
-**Sharing:** Coordinates may be transmitted to the prayer/Qibla API strictly to return timings/direction; no user identifiers are attached.
+## How We Use Information
 
-### C) Device/App Info & Diagnostics (Optional)
-- **Non-personal** information like Android version, app version, basic crash logs (if crash reporting/analytics is enabled in future versions).  
-**Purpose:** Reliability and troubleshooting.  
-**Storage/Retention:** Per the provider’s retention policy (if used).  
-**Sharing:** Not sold; used only for stability analytics.
+The limited information we collect is used solely to:
+- Improve app performance and user experience
+- Fix bugs and technical issues
+- Understand usage patterns to enhance features
 
-> We **do not** collect contacts, photos, media, files, messages, calendar, microphone, or camera data.
+## Data Storage and Security
 
----
+- **Local Storage**: All Quran text, translations, and transliterations are stored locally on your device
+- **No Cloud Storage**: We do not store any user data on external servers
+- **Offline Functionality**: The app works completely offline - no internet connection required
 
-## 3. Third-party services we use
-- **Quran Content & Audio:** Tarteel QUL (Quranic Universal Library) and/or equivalent open resources (text, transliteration, translations, recitations).  
-- **Prayer Times & Qibla:** Aladhan (or equivalent) to calculate prayer timings and Qibla direction from coordinates you provide (when you enable these features).  
-- **Networking:** Standard HTTPS libraries (e.g., OkHttp/Retrofit).
+## Third-Party Services
 
-**What’s sent:** Only the **minimum necessary** request data (e.g., lat/long for timings/bearing). **No advertising IDs** or personal identifiers are sent. Each third party processes data under its own policy.
+Our app may use third-party services for:
+- **Analytics**: Anonymous usage statistics (if implemented)
+- **Crash Reporting**: Anonymous error reporting for app improvement
 
----
+These services operate under their own privacy policies and do not have access to personal information.
 
-## 4. How we use information
-- Render Quran in Indo-Pak Nastaliq Arabic script with English transliteration and translation.
-- Provide Prayer Times, Qibla direction, optional Adhan notifications.
-- Save your bookmarks/highlights/preferences **locally**.
-- Improve performance and reliability (e.g., safe caching, diagnostics if enabled).
+## Children's Privacy
 
----
+Our app is safe for users of all ages. We do not knowingly collect any information from children under 13 years of age.
 
-## 5. Permissions we request (Android)
-- `INTERNET` / `ACCESS_NETWORK_STATE` – API access over HTTPS.  
-- `ACCESS_COARSE_LOCATION` / `ACCESS_FINE_LOCATION` (optional) – Prayer Times & Qibla.  
-- `POST_NOTIFICATIONS` (Android 13+) – Show Adhan/prayer reminders (optional).  
-- `SCHEDULE_EXACT_ALARM` (Android 12+) – More accurate prayer alarms (optional, device-specific).  
-- `WAKE_LOCK` / `VIBRATE` – Reliable alarms/tasbeeh haptics (optional).
+## Permissions
 
-You can deny any optional permission; relevant features will be limited or allow manual input (e.g., set city manually for prayer times).
+The app may request the following permissions:
+- **Storage**: To save bookmarks and reading preferences locally on your device
+- **Audio**: If audio recitation features are implemented
 
----
+## Your Rights
 
-## 6. Data sharing and sale
-- We **do not sell** personal information.  
-- We **do not share** personal information with third parties for advertising or marketing.  
-- Limited technical data (e.g., coordinates) may be sent to prayer/Qibla APIs solely to compute results.
+Since we do not collect personal information, there is no personal data to:
+- Access, modify, or delete
+- Transfer to other services
+- Request information about
 
----
+## Changes to This Privacy Policy
 
-## 7. Data retention and deletion
-- On-device data (bookmarks, highlights, notes, preferences) persists **until you clear app data or uninstall**.  
-- If diagnostics/analytics are enabled in future builds, retention will follow the provider’s default policy.  
-- We do not maintain server-side user profiles or cloud backups.
+We may update this Privacy Policy from time to time. Any changes will be posted within the app and on our distribution platforms.
 
-**How to delete your data:**  
-- Open Android **Settings → Apps → Quran Telugu → Storage → Clear data**, or uninstall the app.  
-- For any future cloud features (if added), email **bioinformatics.bb@gmail.com** to request deletion.
+## Data Retention
 
----
+- All app data is stored locally on your device
+- Data is retained until you uninstall the app
+- No data is transmitted to external servers
 
-## 8. Children’s privacy
-This app is **not directed to children under 13** and does not knowingly collect personal information from children. If you believe a child provided personal data, contact us at **bioinformatics.bb@gmail.com** and we will delete it.
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+- **Email**: [Your Email Address]
+- **GitHub**: [Your GitHub Repository URL]
+
+## Compliance
+
+This Privacy Policy complies with:
+- Google Play Store policies
+- Android app privacy requirements
+- General data protection principles
+
+## Open Source
+
+This app is open source. You can review our code and data handling practices at: [Your GitHub Repository URL]
 
 ---
 
-## 9. Security
-- All network requests use **TLS/HTTPS**.  
-- On-device data remains in app-private storage.  
-- We follow least-privilege and minimize data collection.
-
----
-
-## 10. International transfers
-APIs we call may be hosted in other countries. By using the app, you consent to processing outside your country where laws may differ.
-
----
-
-## 11. Changes to this policy
-We may update this policy to reflect changes in features, providers, or laws. Updates will appear at this URL with a new “Effective Date”. Material changes will be highlighted in-app or via release notes.
-
----
-
-## 12. Contact
-**Developer/Publisher:** Quran Telugu  
-**Email:** bioinformatics.bb@gmail.com
+**Note**: This app is designed to provide access to the Holy Quran in Telugu language with complete respect for user privacy. We believe religious apps should not compromise user privacy or collect unnecessary data.
